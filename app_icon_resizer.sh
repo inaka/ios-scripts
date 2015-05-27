@@ -6,7 +6,7 @@
 
 ### SYSTEM REQUIREMENTS ###
 # * jq - For JSON parsing (if you don't have it, it will be auto-downloaded)
-# * imageclick - For images resizing (no auto-download support for this for now)
+# * imagemagick - For images resizing (no auto-download support for this for now)
 
 
 ### PROJECT REQUIREMENTS ###
